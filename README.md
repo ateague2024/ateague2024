@@ -2,9 +2,9 @@
 
 ## Full-Stack and Backend Software Developer
 
-I build practical web applications, APIs, and business systems that solve real operational problems.
+I build practical web applications, APIs, and business systems around real operational needs.
 
-My primary stack includes Python, Flask, C#, ASP.NET Core, JavaScript, React, MySQL, SQLAlchemy, Entity Framework Core, Bootstrap, and AWS. My projects include authentication, role-based access control, payment processing, REST APIs, database-driven workflows, administrative dashboards, and cloud deployment.
+My primary stack includes Python, Flask, C#, ASP.NET Core, JavaScript, MySQL, SQLAlchemy, Entity Framework Core, Bootstrap, and AWS. My work includes authentication, role-based access control, REST APIs, payment integrations, database-driven workflows, administrative dashboards, client websites, and cloud deployment.
 
 I am currently open to junior and early-career software development opportunities, including remote positions and relocation opportunities.
 
@@ -15,11 +15,12 @@ I am currently open to junior and early-career software development opportunitie
 - Full-stack web applications
 - REST APIs and backend services
 - Database-driven business systems
-- Multi-user dashboards and role-based workflows
-- E-commerce and service-business platforms
+- Multi-tenant SaaS platforms
+- Role-based dashboards and workflows
+- E-commerce and booking applications
 - Payment and subscription integrations
-- Cloud-hosted applications
 - Responsive customer and administrative interfaces
+- Cloud-hosted applications
 
 ---
 
@@ -49,51 +50,32 @@ I am currently open to junior and early-career software development opportunitie
 
 ## Featured Projects
 
-### Runvera — Proprietary Service Business Operating System
+### Runvera — Multi-Tenant Business Platform
 
-Runvera is a commercial multi-tenant SaaS platform designed for service businesses that need a website, appointment booking, e-commerce, staff management, subscriptions, and operational tools in one system.
+Runvera is a proprietary SaaS platform I am building for service-based and product-based businesses that need customer-facing websites, appointment booking, e-commerce, staff access, subscriptions, and business-management tools in one system.
 
 **Highlights**
 
 - Multi-tenant Flask architecture
-- Business onboarding and setup workflows
+- Guided business onboarding and setup workflows
 - Stripe subscription and payment processing
 - Appointment booking and payment tracking
-- Product catalog and order management
+- Product catalog and order-management workflows
 - Owner, staff, and platform-level permissions
-- Configurable templates and business branding
-- AWS-hosted infrastructure
+- Configurable business templates and branding
+- Pre-launch testing and AWS deployment preparation
 
 **Tech:** Python, Flask, SQLAlchemy, MySQL, Stripe, Bootstrap, AWS
 
-> Runvera is proprietary software owned by Teague Cloud & Code. Its production source code, internal business logic, customer data, credentials, and deployment configuration are kept private.
+[View the case study](https://github.com/ateague2024/runvera-platform-case-study)
 
----
-
-### PowerFlower JC — Client E-Commerce Platform
-
-PowerFlower JC was a full-stack e-commerce platform built for a local client and previously deployed for customer use.
-
-**Highlights**
-
-- Customer storefront and product catalog
-- Shopping cart and checkout workflows
-- Product and inventory management
-- Administrative dashboard
-- Customer and order management
-- Stripe payment integration
-- Clover inventory-related integration
-- AWS deployment
-
-**Tech:** Python, Flask, MySQL, JavaScript, Bootstrap, Stripe, Clover API, AWS
-
-[View the case study](https://github.com/ateague2024/powerflower-jc-case-study)
+> Runvera is proprietary software owned by Teague Cloud & Code. Its production source code, internal business logic, customer data, credentials, and deployment configuration remain private.
 
 ---
 
 ### DispatchCore API — Dispatch Management Backend
 
-DispatchCore is a backend dispatch-management API built around job creation, driver assignment, role-based access, and controlled status workflows.
+DispatchCore is an ASP.NET Core backend API built around job creation, driver assignment, role-based access, and controlled status workflows.
 
 **Highlights**
 
@@ -112,15 +94,80 @@ DispatchCore is a backend dispatch-management API built around job creation, dri
 
 ---
 
+### PowerFlower JC — Client E-Commerce Platform
+
+PowerFlower JC was a full-stack e-commerce platform built for a local client and previously deployed for customer use.
+
+**Highlights**
+
+- Customer storefront and product catalog
+- Shopping cart and checkout workflows
+- Product and inventory management
+- Administrative dashboard
+- Customer and order management
+- Stripe payment integration
+- Clover API integration
+- AWS deployment
+
+**Tech:** Python, Flask, MySQL, JavaScript, Bootstrap, Stripe, Clover API, AWS
+
+[View the case study](https://github.com/ateague2024/powerflower-jc-case-study)
+
+---
+
+### T.Stylezz — Active Salon Website
+
+T.Stylezz is an active client website I built and continue to maintain for a real salon business.
+
+**Highlights**
+
+- Customer-facing salon website
+- Online appointment-booking workflow
+- Service and policy presentation
+- Responsive desktop and mobile layouts
+- Client-specific branding
+- Database-driven application workflows
+- Ongoing production maintenance
+
+**Tech:** Python, Flask, SQLAlchemy, MySQL, JavaScript, Bootstrap, AWS
+
+[View the case study](https://github.com/ateague2024/tstylezz-salon-case-study)
+
+[View the live website](https://tstezz.com)
+
+---
+
+### Teague Cloud & Code — Interactive Company Website
+
+The Teague Cloud & Code website is a modern company site built with interactive visuals, responsive layouts, and cursor-reactive 3D effects.
+
+**Highlights**
+
+- Astro-based frontend architecture
+- Three.js and WebGL interactions
+- Cursor-reactive particle effects
+- Responsive desktop and mobile layouts
+- Service and portfolio presentation
+- Production deployment
+
+**Tech:** Astro, JavaScript, Three.js, WebGL, Tailwind CSS
+
+[View the case study](https://github.com/ateague2024/teague-cloud-code-case-study)
+
+[View the live website](https://www.teaguecloudncode.com)
+
+---
+
 ### FitPlan Pro — Personalized Fitness Application
 
-FitPlan Pro is a fitness application that generates personalized workout recommendations through a database-driven web experience.
+FitPlan Pro is an original full-stack fitness application that generates personalized workout recommendations through a database-driven web experience.
 
 **Highlights**
 
 - User profiles and fitness information
 - Personalized workout recommendations
-- Exercise and external API integration
+- External API integration
+- Weather-based workout recommendations
 - Database-backed application logic
 - Responsive user interface
 - Cloud deployment through Render
@@ -135,7 +182,7 @@ FitPlan Pro is a fitness application that generates personalized workout recomme
 
 ## Current Focus
 
-I am currently strengthening my portfolio and development skills in:
+I am currently strengthening my skills and experience in:
 
 - Production-quality backend architecture
 - Secure authentication and authorization
@@ -143,6 +190,7 @@ I am currently strengthening my portfolio and development skills in:
 - ASP.NET Core and C# development
 - Automated testing
 - Cloud deployment
+- Multi-tenant SaaS development
 - AI and LLM application integration
 - Clean project documentation
 - Real-world business workflows
@@ -153,9 +201,9 @@ I am currently strengthening my portfolio and development skills in:
 
 My projects are built around complete workflows rather than isolated code examples.
 
-I focus on understanding how customers, employees, administrators, payments, databases, and outside services need to work together inside a usable application.
+I focus on understanding how customers, employees, administrators, payments, databases, and external services must work together inside a usable application.
 
-That has given me hands-on experience moving beyond individual features and thinking about software as a complete system.
+My portfolio includes proprietary product development, backend API work, active client websites, production e-commerce experience, cloud deployment, and ongoing software maintenance.
 
 ---
 
