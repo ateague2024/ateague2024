@@ -1,24 +1,25 @@
-# Hi, I'm Alphonso Teague 
+# Hi, I'm Alphonso Teague
 
-## Full-Stack Software Developer
+## Full-Stack and Backend Software Developer
 
-I build and deploy practical web applications that solve real business problems.
+I build practical web applications, APIs, and business systems that solve real operational problems.
 
-My primary stack includes Python, Flask, JavaScript, React, MySQL, SQLAlchemy, Bootstrap, and AWS. I have experience building production applications with authentication, payment processing, role-based dashboards, REST APIs, database-driven workflows, and cloud deployment.
+My primary stack includes Python, Flask, C#, ASP.NET Core, JavaScript, React, MySQL, SQLAlchemy, Entity Framework Core, Bootstrap, and AWS. My projects include authentication, role-based access control, payment processing, REST APIs, database-driven workflows, administrative dashboards, and cloud deployment.
 
-I am currently open to junior and early-career software development opportunities, including remote and relocation opportunities.
+I am currently open to junior and early-career software development opportunities, including remote positions and relocation opportunities.
 
 ---
 
-##  What I Build
+## What I Build
 
-- Full-stack Flask and React applications
-- RESTful APIs and database-driven systems
-- Multi-user dashboards and role-based access control
-- Stripe payment and subscription workflows
+- Full-stack web applications
+- REST APIs and backend services
+- Database-driven business systems
+- Multi-user dashboards and role-based workflows
 - E-commerce and service-business platforms
-- AWS-hosted production applications
-- Responsive, mobile-friendly interfaces
+- Payment and subscription integrations
+- Cloud-hosted applications
+- Responsive customer and administrative interfaces
 
 ---
 
@@ -26,23 +27,23 @@ I am currently open to junior and early-career software development opportunitie
 
 ### Languages
 
-`Python` `JavaScript` `C#` `SQL` `HTML5` `CSS3` `PHP` `C++`
+`Python` `C#` `JavaScript` `SQL` `HTML5` `CSS3` `PHP` `C++`
 
 ### Frameworks and Libraries
 
-`Flask` `React` `SQLAlchemy` `Bootstrap` `Tailwind CSS` `Jinja2`
+`Flask` `ASP.NET Core` `React` `SQLAlchemy` `Entity Framework Core` `Bootstrap` `Jinja2`
 
 ### Databases
 
 `MySQL` `PostgreSQL` `SQLite`
 
-### Cloud and DevOps
+### Cloud and Deployment
 
-`AWS EC2` `AWS RDS` `AWS S3` `Route 53` `Nginx` `GitHub Actions` `Render`
+`AWS EC2` `AWS RDS` `AWS S3` `Route 53` `Nginx` `Gunicorn` `Render`
 
 ### Tools and Integrations
 
-`Git` `GitHub` `Stripe API` `Clover API` `Postman` `HeidiSQL`
+`Git` `GitHub` `Swagger` `Postman` `HeidiSQL` `Stripe API` `Clover API` `JWT`
 
 ---
 
@@ -50,92 +51,119 @@ I am currently open to junior and early-career software development opportunitie
 
 ### Runvera — Proprietary Service Business Operating System
 
-Runvera is a commercial multi-tenant SaaS platform designed for service businesses that need websites, appointment booking, e-commerce, staff management, subscriptions, and operational tools in one system.
+Runvera is a commercial multi-tenant SaaS platform designed for service businesses that need a website, appointment booking, e-commerce, staff management, subscriptions, and operational tools in one system.
 
 **Highlights**
 
 - Multi-tenant Flask architecture
 - Business onboarding and setup workflows
-- Stripe subscription and payment workflows
+- Stripe subscription and payment processing
 - Appointment booking and payment tracking
 - Product catalog and order management
-- Owner, staff, and platform-level role management
+- Owner, staff, and platform-level permissions
 - Configurable templates and business branding
-- AWS-hosted production infrastructure
+- AWS-hosted infrastructure
 
 **Tech:** Python, Flask, SQLAlchemy, MySQL, Stripe, Bootstrap, AWS
 
-> Runvera is proprietary software owned by Teague Cloud & Code. The production source code, internal business logic, customer data, credentials, and deployment configuration are kept private.
+> Runvera is proprietary software owned by Teague Cloud & Code. Its production source code, internal business logic, customer data, credentials, and deployment configuration are kept private.
 
 ---
 
-### PowerFlower JC — Production E-Commerce Platform
+### PowerFlower JC — Client E-Commerce Platform
 
-A full-stack e-commerce application created for a real client and deployed for live customer use.
+PowerFlower JC was a full-stack e-commerce platform built for a local client and previously deployed for customer use.
 
 **Highlights**
 
-- Secure payment processing
-- Clover inventory and order integration
-- Administrative inventory dashboard
-- Role-based access control
-- Responsive customer storefront
-- AWS EC2 and RDS deployment
+- Customer storefront and product catalog
+- Shopping cart and checkout workflows
+- Product and inventory management
+- Administrative dashboard
+- Customer and order management
+- Stripe payment integration
+- Clover inventory-related integration
+- AWS deployment
 
-**Tech:** Python, Flask, MySQL, AWS, Stripe, Clover API
+**Tech:** Python, Flask, MySQL, JavaScript, Bootstrap, Stripe, Clover API, AWS
+
+[View the case study](https://github.com/ateague2024/powerflower-jc-case-study)
+
+---
+
+### DispatchCore API — Dispatch Management Backend
+
+DispatchCore is a backend dispatch-management API built around job creation, driver assignment, role-based access, and controlled status workflows.
+
+**Highlights**
+
+- JWT authentication
+- Admin, dispatcher, and driver roles
+- Job creation and driver assignment
+- Controlled job-status transitions
+- Status-history tracking
+- Entity Framework Core migrations
+- MySQL database integration
+- Swagger/OpenAPI testing
+
+**Tech:** C#, ASP.NET Core 8, Entity Framework Core, MySQL, JWT, Swagger
+
+[View the repository](https://github.com/ateague2024/dispatchcore-api)
 
 ---
 
 ### FitPlan Pro — Personalized Fitness Application
 
-A fitness application that generates personalized workout recommendations and integrates external data through APIs.
+FitPlan Pro is a fitness application that generates personalized workout recommendations through a database-driven web experience.
 
 **Highlights**
 
-- React frontend and Flask backend
-- Personalized workout generation
-- Weather API integration
+- User profiles and fitness information
+- Personalized workout recommendations
+- Exercise and external API integration
+- Database-backed application logic
 - Responsive user interface
-- REST API communication
+- Cloud deployment through Render
 
-**Tech:** React, Flask, Python, JavaScript, APIs
+**Tech:** Python, Flask, JavaScript, MySQL, HTML, CSS, APIs
 
----
+[View the repository](https://github.com/ateague2024/FitPlanPro)
 
-### Northeast State FAQ Portal — Capstone Project
-
-A searchable FAQ system built with a student development team for Northeast State Community College.
-
-**Highlights**
-
-- Searchable and categorized questions
-- PHP and MySQL backend
-- Faculty collaboration
-- Internal server configuration
-- Database-driven content management
-
-**Tech:** PHP, MySQL, HeidiSQL, HTML, CSS
+[View the live application](https://fitplanpro.onrender.com)
 
 ---
 
 ## Current Focus
 
-I am currently improving my portfolio with projects that demonstrate:
+I am currently strengthening my portfolio and development skills in:
 
 - Production-quality backend architecture
 - Secure authentication and authorization
-- API design and integration
+- REST API design
+- ASP.NET Core and C# development
 - Automated testing
 - Cloud deployment
-- Clean documentation
+- AI and LLM application integration
+- Clean project documentation
 - Real-world business workflows
+
+---
+
+## What Sets My Work Apart
+
+My projects are built around complete workflows rather than isolated code examples.
+
+I focus on understanding how customers, employees, administrators, payments, databases, and outside services need to work together inside a usable application.
+
+That has given me hands-on experience moving beyond individual features and thinking about software as a complete system.
 
 ---
 
 ## Connect With Me
 
 - Portfolio: [teaguecloudncode.com](https://www.teaguecloudncode.com)
-- LinkedIn: [linkedin.com/in/alphonso-teague](https://linkedin.com/in/alphonso-teague)
+- LinkedIn: [linkedin.com/in/alphonso-teague](https://www.linkedin.com/in/alphonso-teague)
+- GitHub: [github.com/ateague2024](https://github.com/ateague2024)
 - Email: [ateague4@stumail.northeaststate.edu](mailto:ateague4@stumail.northeaststate.edu)
 
 ---
